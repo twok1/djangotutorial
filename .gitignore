@@ -1,0 +1,5 @@
+polls/__pycache__/
+mysite/__pycache__/
+db.sqlite3
+polls/migrations/__pycache__/
+venv/
